@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7811a65-2453-40aa-a505-f3e06c798aa6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/cleanmvc_war_exploded.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_2.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_3.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_3.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterPath="" />
@@ -43,7 +39,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
@@ -238,12 +233,20 @@
       <updated>1522805795063</updated>
       <workItem from="1522805796424" duration="44000" />
       <workItem from="1522808633580" duration="755000" />
-      <workItem from="1522810379097" duration="1306000" />
+      <workItem from="1522810379097" duration="1379000" />
     </task>
+    <task id="LOCAL-00001" summary="测试忽略">
+      <created>1522814516087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522814516087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2105000" />
+    <option name="totallyTimeSpent" value="2178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2048" y="-186" width="2048" height="1152" extended-state="0" />
@@ -286,6 +289,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试忽略" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试忽略" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
